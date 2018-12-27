@@ -1,5 +1,7 @@
 # Arcade-game-Run-Jump
-Arcade game by Unity 3D : You have to make the character to avoid bombs while running &amp; avoid falling.
+<p>Arcade game by Unity 3D : You have to make the character to avoid bombs while running &amp; avoid falling.</p>
+<p>Game in Google Play :</p>
+https://play.google.com/store/apps/details?id=com.enima.funrunjump
 <img src="screen/feature.png" height=300 >
 <h2>Draw character</h2>
 <img src="screen/prototype.jpg" height=400 >
